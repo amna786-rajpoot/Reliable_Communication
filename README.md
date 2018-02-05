@@ -1,11 +1,4 @@
----
-title: homework 5
-section: homeworks
-due: 11:59PM, November 27th, 2017
----
-
-
-## Homework 5: Reliable Communication
+Reliable Communication
 
 In this homework, you will implement reliable communication over an unreliable
 link, just like TCP.
